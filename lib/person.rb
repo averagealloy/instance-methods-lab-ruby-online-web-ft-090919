@@ -1,4 +1,4 @@
-class Dog
+class Per
   def talk
     puts "Hello World!"
   end
