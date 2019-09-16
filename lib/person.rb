@@ -7,6 +7,6 @@ class Person
   end
 end
 
-fido = P.new
+fido = Person.new
 fido.bark
 fido.sit
