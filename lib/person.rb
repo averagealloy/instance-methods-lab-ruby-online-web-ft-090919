@@ -9,4 +9,4 @@ end
 
 ada = Person.new
 ada.talk
-fido.w
+fido.walk 
