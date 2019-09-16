@@ -8,5 +8,5 @@ class Person
 end
 
 ada = Person.new
-ada.takl
+ada.ta
 fido.sit
