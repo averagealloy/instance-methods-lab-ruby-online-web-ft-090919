@@ -3,7 +3,7 @@ class Dog
     puts "Hello World!"
   end
   def walk
-    puts "The Person is sitti"
+    puts "The Person is wal"
   end
 end
 
