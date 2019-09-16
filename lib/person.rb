@@ -2,7 +2,7 @@ class Dog
   def talk
     puts "Hello World!"
   end
-  def w
+  def walk
     puts "The Dog is sitting"
   end
 end
