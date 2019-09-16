@@ -1,6 +1,6 @@
 class Dog
   def talk
-    puts "Woof!"
+    puts "!"
   end
   def sit
     puts "The Dog is sitting"
